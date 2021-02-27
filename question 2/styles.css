@@ -1,0 +1,29 @@
+.container {
+  width: 70%;
+  margin: 100px auto;
+  text-align: center;
+  display: flex;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+  margin: auto;
+}
+
+img {
+  cursor: pointer;
+  width: 80%;
+}
+
+h3 {
+  font-size: 3rem;
+  margin-top: 1%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: sans-serif;
+}
